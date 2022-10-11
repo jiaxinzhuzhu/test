@@ -2,6 +2,6 @@ let temp = document.getElementById("pop")
 
 
 function popup(){
-    temp.textContent = "Welcome to Frontend Dev Path!!!"
+    temp.textContent = "傻屌"
 
 }
